@@ -1,6 +1,6 @@
 # BreathBodySong.com
 
-This is a Jekyll static content site for BreathBodySong.com. It is hosted on Github Pages for simplicity. It was based on the [jekyll-agency](https://github.com/raviriley/agency-jekyll-theme) theme.
+This is a [Jekyll](https://jekyllrb.com/) static content site for BreathBodySong.com. It is hosted on Github Pages for simplicity. It was based on the [jekyll-agency](https://github.com/raviriley/agency-jekyll-theme) theme.
 
 ## Editing
 
