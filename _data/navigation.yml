@@ -11,7 +11,7 @@
 # -----------------
 en: &DEFAULT_EN
   nav:
-    - title: "Services"
+    - title: "Voice Movement Therapy"
       section: services
     - title: "About"
       section: about

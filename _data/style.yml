@@ -1,7 +1,8 @@
 #Color Customization
-#highlight: "#54bfff"
+highlight: lightsalmon
 #white: "#FF0000"
 #black: "#000"
+$primary: "#000"
 
 #Image Customization
 header-image: "../img/header-bg.jpg"
