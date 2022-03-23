@@ -32,6 +32,8 @@ twitter_username: jekyllrb
 github_username:  jekyll
 locale: "en-US"
 
+formspree_form_path: "f/mdobdrbo"
+
 # text_skin: default
 # highlight_theme: default
 # Build settings
