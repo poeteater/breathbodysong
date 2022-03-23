@@ -4,8 +4,6 @@
 
 layout: home
 ---
-# Vocal Exploration
+# Breath Body Song
 
 ## Explore, Express; Expand, Embody 
-
-Bri is cool
