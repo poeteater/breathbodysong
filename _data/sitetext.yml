@@ -19,7 +19,7 @@ en: &DEFAULT_EN
   services:
     title: "Services"
     text: "Voice Movement Therapy"
-    section: services
+    section: vmt
     list:
       - desc: "Voice Movement Therapy (VMT) is an expressive arts therapy working with the links between the breath, voice, physicality, and psyche. Our stories are held in our voices, in our bodies; VMT gives us a container to explore and express, expand and embody. VMT offers a non-judgmental approach to voice work and does not categorize voices using typical Westernized vocal categories, exploring instead the wide range of human sound in a therapeutic setting. For more info, visit the International Association of Voice Movement Therapy."
         # title: "Philosophy1"
