@@ -33,6 +33,8 @@ github_username:  jekyll
 locale: "en-US"
 
 formspree_form_path: "f/mdobdrbo"
+analytics:
+  google: G-WNQ98TMNR3
 
 # text_skin: default
 # highlight_theme: default
