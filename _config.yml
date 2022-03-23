@@ -19,15 +19,15 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Vocal Exploration
-email: your-email@example.com
+email: bri.lueders@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Voice Movement Therapy (VMT) is an expressive arts therapy working with the links between the breath, voice, physicality, and psyche. 
   Our stories are held in our voices, in our bodies; VMT gives us a container to explore and express, expand and embody. 
   VMT offers a non-judgmental approach to voice work and does not categorize voices using typical Westernized vocal categories, 
   exploring instead the wide range of human sound in a therapeutic setting. 
   For more info, visit the International Association of Voice Movement Therapy.
-baseurl: "/jekyl_test" # the subpath of your site, e.g. /blog
-url: "https://tibbon.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://www.breathbodysong.com" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 locale: "en-US"
