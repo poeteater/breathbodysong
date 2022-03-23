@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Breath Body Song
     text: Explore, Express; Expand, Embody
-    button: Begin your Journey
+    button: Move Your Bod
     buttonlink: "#services"
 
   services:
